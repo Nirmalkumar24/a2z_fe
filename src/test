@@ -1,0 +1,10 @@
+<td>{item["event_name"]}</td>
+<td>{item["event_location"]}</td>
+<td>{item["organizer_name"]}</td>
+<td>{item["mobile"]}</td>
+<td>{item["whatsapp"]}</td>
+<td>{item["alternate_contact_person"]}</td>
+<td>{item["alternate_contact_number"]}</td>
+<td>{item["alternate_whatsapp"]}</td>
+<td>{item["email"]}</td>
+<td>{item["about"]}</td>
